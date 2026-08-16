@@ -157,17 +157,25 @@ El reporte fue organizado para permitir una navegación más clara entre los dif
 
 Entre los análisis desarrollados se incluyen:
 
-### 📈 Análisis general
+### 📈 Resumen ejecutivo
 
 Página destinada a presentar una visión general del comportamiento de las ventas mediante indicadores y visualizaciones.
 
 Permite obtener rápidamente una perspectiva del desempeño comercial.
 
-### 🛒 Análisis de ventas
+### 📆 Evolución de ventas
 
-Se utilizaron visualizaciones para analizar el comportamiento de las operaciones y facilitar la identificación de tendencias y diferencias entre los datos.
+Análisis de la evolución de las ventas a lo largo del tiempo, permitiendo identificar tendencias y variaciones entre períodos.
 
-### 👥 Análisis de vendedores
+### 🛒 Productos y categoría
+
+Se utilizaron visualizaciones para analizar el comportamiento de las ventas por producto y por categoría, facilitando la identificación de tendencias y diferencias entre los datos.
+
+### 🧑‍🤝‍🧑 Clientes
+
+Página enfocada en analizar el comportamiento y la contribución de los clientes dentro de las ventas totales.
+
+### 👥 Vendedores
 
 Se desarrolló una página específica para analizar el desempeño de los vendedores.
 
@@ -271,13 +279,12 @@ analisis_ventas/
 ├── pra1.pbix
 │
 └── imagenes/
-    ├── 1.png
-    ├── 2.png
-    └── 3.png
-    └── 4.png
-    └── 5.png
+    ├── resumen_ejecutivo.png
+    ├── evolucion_ventas.png
+    ├── productos_categoria.png
+    ├── clientes.png
+    └── vendedores.png
 ```
-
 
 ---
 
@@ -285,33 +292,24 @@ analisis_ventas/
 
 ### Resumen ejecutivo
 
-```markdown
-![Resumen ejecutivo](imagenes/1.png)
-```
+![Resumen ejecutivo](imagenes/resumen_ejecutivo.png)
 
-### Análisis de ventas
+### Evolución de ventas
 
-```markdown
-![Análisis de ventas](imagenes/2.png)
-```
+![Evolución de ventas](imagenes/evolucion_ventas.png)
 
-### Página de productos y categoria
+### Página de productos y categoría
 
-```markdown
-![Análisis de productos y categoria](imagenes/3.png)
-```
+![Análisis de productos y categoría](imagenes/productos_categoria.png)
 
 ### Página de clientes
 
-```markdown
-![Análisis de clientes](imagenes/4.png)
-```
+![Análisis de clientes](imagenes/clientes.png)
 
 ### Página de vendedores
 
-```markdown
-![Análisis de vendedores](imagenes/5.png)
-```
+![Análisis de vendedores](imagenes/vendedores.png)
+
 ---
 
 ## 🚀 Resultado
