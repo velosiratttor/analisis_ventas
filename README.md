@@ -256,15 +256,19 @@ Durante el desarrollo del proyecto se aplicaron conocimientos relacionados con:
 
 ---
 
+## ▶️ Cómo verlo
+
+Descarga el archivo `pra1.pbix` de este repositorio y ábrelo en Power BI Desktop.
+
+---
+
 ## 📁 Estructura del repositorio
 
 ```text
-PowerBI-Analisis-Ventas/
+analisis_ventas/
 │
 ├── README.md
-│
-├── powerbi/
-│   └── analisis_ventas.pbix
+├── pra1.pbix
 │
 └── imagenes/
     ├── 1.png
@@ -274,16 +278,15 @@ PowerBI-Analisis-Ventas/
     └── 5.png
 ```
 
-> Los nombres de archivos pueden variar dependiendo de la estructura utilizada en el proyecto.
 
 ---
 
 ## 📷 Capturas del proyecto
 
-### Dashboard general
+### Resumen ejecutivo
 
 ```markdown
-![Dashboard general](imagenes/1.png)
+![Resumen ejecutivo](imagenes/1.png)
 ```
 
 ### Análisis de ventas
@@ -292,13 +295,11 @@ PowerBI-Analisis-Ventas/
 ![Análisis de ventas](imagenes/2.png)
 ```
 
-### Página de productos y categoría
+### Página de productos y categoria
 
 ```markdown
-![Análisis de productos y categoría](imagenes/3.png)
+![Análisis de productos y categoria](imagenes/3.png)
 ```
-
----
 
 ### Página de clientes
 
@@ -306,14 +307,11 @@ PowerBI-Analisis-Ventas/
 ![Análisis de clientes](imagenes/4.png)
 ```
 
----
-
 ### Página de vendedores
 
 ```markdown
 ![Análisis de vendedores](imagenes/5.png)
 ```
-
 ---
 
 ## 🚀 Resultado
@@ -350,3 +348,4 @@ Power BI · Power Query · Power Pivot · DAX · Excel · SQL · Python
 ## 📌 Nota
 
 Este proyecto fue desarrollado con fines de aprendizaje y construcción de portafolio profesional, aplicando conceptos de análisis y modelado de datos con Power BI.
+
