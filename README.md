@@ -263,16 +263,15 @@ PowerBI-Analisis-Ventas/
 │
 ├── README.md
 │
-├── datos/
-│   └── datos_ventas.xlsx
-│
 ├── powerbi/
 │   └── analisis_ventas.pbix
 │
-└── capturas/
-    ├── dashboard_general.png
-    ├── analisis_ventas.png
-    └── vendedores.png
+└── imagenes/
+    ├── 1.png
+    ├── 2.png
+    └── 3.png
+    └── 4.png
+    └── 5.png
 ```
 
 > Los nombres de archivos pueden variar dependiendo de la estructura utilizada en el proyecto.
@@ -284,19 +283,35 @@ PowerBI-Analisis-Ventas/
 ### Dashboard general
 
 ```markdown
-![Dashboard general](capturas/dashboard_general.png)
+![Dashboard general](imagenes/1.png)
 ```
 
 ### Análisis de ventas
 
 ```markdown
-![Análisis de ventas](capturas/analisis_ventas.png)
+![Análisis de ventas](imagenes/2.png)
 ```
+
+### Página de productos y categoría
+
+```markdown
+![Análisis de productos y categoría](imagenes/3.png)
+```
+
+---
+
+### Página de clientes
+
+```markdown
+![Análisis de clientes](imagenes/4.png)
+```
+
+---
 
 ### Página de vendedores
 
 ```markdown
-![Análisis de vendedores](capturas/vendedores.png)
+![Análisis de vendedores](imagenes/5.png)
 ```
 
 ---
